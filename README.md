@@ -19,7 +19,8 @@ cd Backend-test-task
 
 ```bash
 python -m venv venv
-source venv/bin/activate
+source venv/bin/activate - for Linux and macOS
+venv\Scripts\activate - for Windows
 ```
 
 ## Install Dependencies
